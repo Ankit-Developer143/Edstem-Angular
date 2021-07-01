@@ -1,0 +1,13 @@
+.container {
+    width: 60vh;
+}
+
+h5 {
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    background-color: yellow;
+    text-decoration: dashed;
+}
